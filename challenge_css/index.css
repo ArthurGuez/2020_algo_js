@@ -23,6 +23,10 @@ body {
     margin: 10px;
 }
 
+.megabox:hover {
+    overflow: hidden;
+}
+
 img {
     display: flex;
     height: auto;
